@@ -1,5 +1,5 @@
 <h1 align="center">
-  Nick Roush | Freelance Web Developer
+  Nick Roush | Front-end Developer
 </h1>
 
 <p align="center">
